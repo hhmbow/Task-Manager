@@ -3,5 +3,6 @@
         "filetered",
         "items",
         "todos"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
